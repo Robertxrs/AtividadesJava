@@ -1,0 +1,6 @@
+[submodule "Atividades_Senac_Java"]
+	path = Atividades_Senac_Java
+	url = https://github.com/Robertxrs/Atividades_Senac_Java.git
+[submodule "Udemy_Java"]
+	path = Udemy_Java
+	url = https://github.com/Robertxrs/Udemy_Java.git
